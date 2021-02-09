@@ -14,6 +14,12 @@
     justify-content: space-arround;
 }
 
+.hero
+{
+    height: 600px;
+    background-color: pink;
+}
+
 .aboutb
 {
     height: 600px;
@@ -27,6 +33,51 @@
     color: rgb(253, 226, 226);
     padding-left: 5%;
 }
+
+.skillsb
+{
+    height: 600px;
+    background-color: pink;
+    
+}
+
+.skills
+{
+    background-color: rgb(155, 97, 22);
+    color: rgb(253, 226, 226);
+    padding-left: 5%;
+}
+
+.experienceb
+{
+    height: 600px;
+    background-color: pink;
+    
+}
+
+
+.experience
+{
+    background-color: rgb(155, 97, 22);
+    color: rgb(253, 226, 226);
+    padding-left: 5%;
+}
+
+
+.contactb
+{
+    height: 600px;
+    background-color: pink;
+    
+}
+
+.contact
+{
+    background-color: rgb(155, 97, 22);
+    color: rgb(253, 226, 226);
+    padding-left: 5%;
+}
+
 
 .cajayo{
     width: 50px; 
