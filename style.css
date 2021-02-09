@@ -1,6 +1,20 @@
-.heroo
+
+.foto{
+    width: 25%; 
+}
+
+.aboutb
 {
     height: 600px;
+    background-color: pink;
+    
+}
+
+.about
+{
+    background-color: rgb(155, 97, 22);
+    color: rgb(253, 226, 226);
+    padding-left: 5%;
 }
 
 .cajayo{
