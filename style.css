@@ -14,10 +14,42 @@
     justify-content: space-arround;
 }
 
+.hipervinculado{
+    color: rgb(255, 0, 140);
+}
+
+.textoExp{
+    color:rgb(155, 97, 22);
+}
+
+.adentroE{
+    display: flex;
+    justify-content: space-between;
+}
+
+.angulos{
+    height: 400px;
+    padding: 0px;
+}
+
+.tcp{
+    height: 400px;
+}
+
+.angulo{
+    height: 400px;
+}
+
+.adentroE
+{
+    
+    justify-content: space-between;
+}
+
 .hero
 {
     height: 600px;
-    background-color: pink;
+    background-color: rgb(155, 97, 22);;
 }
 
 .aboutb
