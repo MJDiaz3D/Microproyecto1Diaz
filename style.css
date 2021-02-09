@@ -1,6 +1,17 @@
 
 .foto{
-    width: 25%; 
+    width: 27%; 
+    margin-left: 1.5%;
+}
+
+.texto1{
+    margin-left: 2.7%;
+    color: rgb(155, 97, 22);
+}
+
+.adentroA{
+    display: flex;
+    justify-content: space-arround;
 }
 
 .aboutb
