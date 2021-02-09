@@ -1,7 +1,32 @@
+.adentroE{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.angulos{
+    height: 400px;
+    padding: 0px;
+}
+
+.tcp{
+    height: 400px;
+}
+
+.angulo{
+    height: 400px;
+}
+
+.adentroE
+{
+    
+    justify-content: space-between;
+}
+
 .hero
 {
     height: 600px;
-    background-color: pink;
+    background-color: rgb(155, 97, 22);;
 }
 
 .aboutb
@@ -79,6 +104,8 @@
     align-items: center;
     justify-content: space-around;
     display: flex;
+    color: rgb(155, 97, 22);
+    background-color: pink;
 }
 
 .cajaopcion{
@@ -92,7 +119,7 @@
 
 .opcion
 {
-    border: 2px solid hotpink;
+    border: 2px solid rgb(155, 97, 22);
     border-radius: 40%;
     display: flex;
     align-items: center;
