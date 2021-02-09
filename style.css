@@ -92,7 +92,7 @@
 
 .opcion
 {
-    border: 2px solid hotpink;
+    border: 2px solid rgb(155, 97, 22);
     border-radius: 40%;
     display: flex;
     align-items: center;
