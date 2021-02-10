@@ -33,8 +33,9 @@
 
 
 .foto{
-    width: 27%; 
-    margin-left: 1.5%;
+    height: 500px;
+    margin-top:0.5%;
+    margin-left:1.5%;
 }
 
 .texto1{
@@ -180,7 +181,6 @@
 
 .yo{
     height: 100%; 
-    width: 100%;
     object-fit: cover;
     border-radius: 100%;
 }
