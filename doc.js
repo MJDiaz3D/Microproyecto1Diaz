@@ -1,3 +1,24 @@
+const skills =[
+    {
+        name: "Maya",
+        ranking: "75/100"
+    },
+    {
+        name: "Modelado 3D",
+        ranking: "80/100"
+    },
+    {
+        name: "Java",
+        ranking: "70/100"
+    },
+    {
+        name: "Animacion",
+        ranking: "70/100"
+    }
+]
+
+
+
 
 window.addEventListener('load', function(){
     
