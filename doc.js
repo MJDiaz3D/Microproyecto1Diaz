@@ -13,7 +13,7 @@ window.addEventListener('load', function(){
     function cambiar(){
 
         var i = 0
-        document.slider.src = imagenes[2]
+        document.slider.src = imagenes[i]
 
         if(i<2){
             i++;
