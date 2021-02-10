@@ -31,9 +31,16 @@
     color: rgb(155, 97, 22);
 }
 
+.yo{
+    height: 100%; 
+    object-fit: cover;
+    border-radius: 100%;
+}
 
 .foto{
-    height: 500px;
+    height: 400px;
+    width: auto;
+    padding: 0px;
     margin-top:0.5%;
     margin-left:1.5%;
 }
@@ -179,11 +186,7 @@
     height: 50px;
 }
 
-.yo{
-    height: 100%; 
-    object-fit: cover;
-    border-radius: 100%;
-}
+
 
 .navbar{
     display: flexbox;
