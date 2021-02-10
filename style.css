@@ -1,3 +1,4 @@
+
 .a1{
     color: rgb(155, 97, 22);
 }
@@ -51,6 +52,42 @@
 
 .angulo{
     height: 400px;
+}
+.adentroC{
+    display: flex;
+    justify-content: space-between;
+}
+
+.wa{
+    height: 400px;
+}
+
+.insta{
+    height: 400px;
+}
+
+.mail{
+
+    padding: 2%;
+    height: 400px;
+}
+
+
+
+.textoCon{
+    color:rgb(155, 97, 22);
+    margin-left: 20%;
+}
+
+.textoCon2{
+    color:rgb(155, 97, 22);
+    margin-left: 35%;
+}
+
+.textoCon3{
+    color:rgb(155, 97, 22);
+    margin-left: 40%;
+
 }
 
 .hero
