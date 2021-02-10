@@ -1,3 +1,15 @@
+.pintar
+{
+    background-color: rgb(155, 97, 22);
+}
+
+.hero{
+    margin-left: 16%;
+
+}
+.bandita{
+    background-color: rgb(155, 97, 22);
+}
 
 .a1{
     color: rgb(155, 97, 22);
@@ -90,11 +102,7 @@
 
 }
 
-.hero
-{
-    height: 600px;
-    background-color: rgb(155, 97, 22);;
-}
+
 
 .aboutb
 {
@@ -137,7 +145,10 @@
     background-color: rgb(155, 97, 22);
     color: rgb(253, 226, 226);
     padding-left: 5%;
+
 }
+
+
 
 
 .contactb
